@@ -1,4 +1,4 @@
-# 🛒 ShopHunt – A Modern React eCommerce Platform
+# 🛒 ShopHunt – A React eCommerce Platform
 ShopHunt is a fully responsive and modern eCommerce web application built using React.js, Vite, and Tailwind CSS. It allows users to browse products, authenticate securely, and receive OTP for verification using Google Apps Script. Product data is dynamically fetched from the open Fake Store API.
 
 This project showcases a minimal yet powerful frontend UI, fast routing, smooth animations, and a secure authentication mechanism — making it ideal for learning or starting your own eCommerce store.
