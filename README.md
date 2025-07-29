@@ -42,12 +42,16 @@ https://theshophunt.netlify.app/
 <img width="2048" height="3678" alt="localhost_5173_products (1)" src="https://github.com/user-attachments/assets/a699de7a-4b62-4fd0-8389-6b992edeaa0b" />
 <img width="2048" height="3826" alt="localhost_5173_products (2)" src="https://github.com/user-attachments/assets/7c60770c-c1be-45c4-9708-202a18a07e32" />
 
-## Config
+## ⚙️ Config Steps
+
+To run the project locally, follow these steps:
+
+```bash
 # 1. Clone the repository
 git clone https://github.com/toufik0009/ShopHunt.git
 
 # 2. Navigate to the project directory
-cd your-repo-name
+cd ShopHunt
 
 # 3. Install dependencies
 npm install
@@ -56,16 +60,4 @@ npm install
 npm run dev
 
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
