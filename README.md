@@ -45,8 +45,7 @@ https://theshophunt.netlify.app/
 ## ⚙️ Config Steps
 
 To run the project locally, follow these steps:
-
-
+```bash
 # 1. Clone the repository
 git clone https://github.com/toufik0009/ShopHunt.git
 
@@ -54,11 +53,9 @@ git clone https://github.com/toufik0009/ShopHunt.git
 cd ShopHunt
 
 # 3. Install dependencies
-```bash
 npm install
 
 # 4. Start the development server
-```bash
 npm run dev
 
 
